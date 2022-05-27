@@ -1,0 +1,61 @@
+{
+    "name": "hacker-dark-pro",
+    "displayName": "hacker dark PRO",
+    "description": "Este es un tema con colores simbolicos de hackers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+                "label": "hacker dark PRO",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hacker dark PRO-color-theme.json"
+            },
+            {
+                "label": "hacker dark blue PRO",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hacker dark PRO-color-blue-theme.json"
+            },
+            {
+                "label": "hacker dark blue light PRO",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hacker dark PRO-color-blue-light-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "green",
+        "green dark",
+        "blue dark",
+        "turquesa",
+        "turquesa dark",
+        "hack",
+        "hacker",
+        "theme hacker dark",
+        "tema hacker dark",
+        "hacker dark",
+        "hacker pro",
+        "negro"
+    ],
+    "icon": "images/icono.png",
+    "galleryBanner": {
+        "color": "#140e1a",
+        "theme": "dark"
+    },
+    "author": {
+        "name": "Armando Romero",
+        "email": "armando602vscode@gmail.com",
+        "url": "https://www.youtube.com/channel/UC9Ff1ypUKX3v6W1tIuGexjg"
+    },
+    "repository": {
+        "url": "https://github.com/armando10rafael10/theme-hacker-pro.git",
+        "type": "git"
+    },
+    "publisher": "hacker-dark-pro-one"
+}
