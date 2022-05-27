@@ -22,4 +22,5 @@ Es un tema para hackers....
 * **black-purple-vampire**
 * **purple-black-vampire**
 
-## Gracias por visitar esta extensión para visual studio code 📢🎁
+## Gracias por visitar esta extensión para visual studio code, si desea algun 
+tema que cree puede contactarme es "gratuito" 📢🎁
